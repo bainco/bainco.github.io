@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "bainco.github.io"
 title_separator          : "-"
 name                     : &name "Connor Bain"
 description              : &description "Aspiring Computing Educator"
