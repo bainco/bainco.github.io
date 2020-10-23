@@ -39,7 +39,7 @@
     {% endif %}
 
         {% if post.collection == 'teaching' %}
-          <p style="margin-block-start:0em; margin-block-end:0.5em">{% if post.course_id %}<b>{{ post.course_id }}</b> at {% endif %}<i>{{ post.venue }}</i>, {{ post.semester }} {{ post.date | default: "1900-01-01" | date: "%Y" }}
+          <p style="margin-block-start:0em; margin-block-end:0.5em">{% if post.course_id %}<b>{{ post.course_id }}</b> at {% endif %}<i>{{ post.venue }}</i>, {{ post.semester }} {{ post.date | default: "1900-01-01" | date: "%Y" }}{% if post.present %} - present{% endif %}
           <br>{{ post.role }}</p>
         {% elsif post.collection == 'publications' %}
           <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>

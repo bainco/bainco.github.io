@@ -1,0 +1,10 @@
+---
+title: "Teaching Certificate Program, Searle Center for Advancing Learning and Teaching"
+collection: teaching
+role: "Course Design Project: An Introduction to Computational Thinking for Undergraduates"
+link: "https://www.northwestern.edu/searle/initiatives/grad/teaching-certificate-program/index.html"
+venue: "Northwestern University"
+semester: ""
+date: 01-01-2017
+location: "Evanston, IL"
+---
