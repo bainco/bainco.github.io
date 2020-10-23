@@ -39,8 +39,8 @@
     {% endif %}
 
         {% if post.collection == 'teaching' %}
-          <p style="line-height: .6;"> {{ post.course_id }} at <i>{{ post.venue }}</i>, {{ post.semester }} {{ post.date | default: "1900-01-01" | date: "%Y" }}
-          {{ post.role }}</p>
+          <p><b>{{ post.course_id }}</b> at <i>{{ post.venue }}</i>, {{ post.semester }} {{ post.date | default: "1900-01-01" | date: "%Y" }}
+          <br>{{ post.role }}</p>
         {% elsif post.collection == 'publications' %}
           <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.date %}
