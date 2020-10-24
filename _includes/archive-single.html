@@ -26,6 +26,7 @@
       </div>
     {% endif %}
 
+    {% if post.collection != "publications" %}
     <h2 {% if post.collection == 'teaching' %} style="margin-top:1em" {% endif %} class="archive__item-title" itemprop="headline">
       {% if post.link %}
         <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
@@ -33,6 +34,7 @@
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
     </h2>
+    {% endif %}
 
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
@@ -41,9 +43,10 @@
         {% if post.collection == 'teaching' %}
           <p style="margin-block-start:0em; margin-block-end:0.5em">{% if post.course_id %}<b>{{ post.course_id }}</b> at {% endif %}<i>{{ post.venue }}</i>, {{ post.semester }} {{ post.date | default: "1900-01-01" | date: "%Y" }}{% if post.present %} - present{% endif %}
           <br>{{ post.role }}</p>
-        {% elsif post.collection == 'publications' %}
+      <!--  {% elsif post.collection == 'publications' %}
           <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
-        {% elsif post.date %}
+          -->
+        {% elsif post.date and (post.collection != 'publications') %}
          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
         {% endif %}
 
