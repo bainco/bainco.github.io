@@ -1,8 +1,8 @@
 ---
 title: "Searle Center for Teaching and Learning"
-collection: teaching
+collection: service
 role: "Teaching Consultant"
-permalink: /teaching/2016W-SESP210
+permalink: /service/TC-Searle
 link: "https://www.northwestern.edu/searle/services/feedback-on-teaching/small-group-analysis-landing-page.html"
 venue: "Northwestern University"
 semester: "Fall"
