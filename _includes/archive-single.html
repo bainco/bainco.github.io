@@ -40,7 +40,7 @@
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
 
-        {% if post.collection == 'teaching' %}
+        {% if post.collection == 'teaching' or post.collection == 'service' %}
           <p style="margin-block-start:0em; margin-block-end:0.5em">{% if post.course_id %}<b>{{ post.course_id }}</b> at {% endif %}<i>{{ post.venue }}</i>, {{ post.semester }} {{ post.date | default: "1900-01-01" | date: "%Y" }}{% if post.present %} - present{% endif %}
           <br>{{ post.role }}</p>
 
