@@ -1,4 +1,29 @@
 {% include base_path %}
+<style>
+triangle-topleft {
+  width: 0;
+  height: 0;
+  border-top: 100px solid #9020d1bb;
+  border-left: 100px solid transparent;
+  position: absolute;
+}
+
+#container {
+  position: relative;
+}
+
+#container #triangle-topleft,
+#overlay {
+  position: absolute;
+  color: white;
+  right: 0;
+}
+</style>
+<div id="container">
+  <div id="triangle-topleft"></div>
+  <div id="overlay"></div>
+</div>
+
 
 <div class="masthead">
   <div class="masthead__inner-wrap">
