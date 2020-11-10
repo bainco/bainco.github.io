@@ -1,7 +1,7 @@
 ---
 title: "Computational Thinking Summer Institute (CTSI)"
 excerpt: "<img src='/images/ctsi.png'>"
-collection: portfolio
+collection: projects
 ---
 
 Co-Designer;

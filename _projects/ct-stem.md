@@ -1,7 +1,7 @@
 ---
 title: "CT-STEM Project @ NU"
 excerpt: "<img src='/images/ct-stem.png'>"
-collection: portfolio
+collection: projects
 ---
 
 Curriculum developers
