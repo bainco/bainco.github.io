@@ -8,8 +8,8 @@ date: 01-01-2017
 location: "Evanston, IL"
 ---
 
-# Course Proposal: Computational Thinking Across Disciplines
-Upper Level Undergraduate Course (15 - 30 students) – 3 Class Periods (50 mins) each week
+# Computational Thinking Across Disciplines
+_Course Proposal_ - Upper Level Undergraduate Course (15 - 30 students) – 3 Class Periods (50 mins) each week
 
 ## Overarching Argument
 As both a computer scientist and an educator, I feel that students often do not realize the extent to which their field of study is driven by computation. In addition, while you often hear about what computers can do, you don’t often hear what they can’t do. This course will provide an opportunity to students to not only get their feet wet in the computational realm by playing with software, programming languages, and other computational devices, but also provide them an opportunity to explore how and in what ways their own interests are explorable via computation.
