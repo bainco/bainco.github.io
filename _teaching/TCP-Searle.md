@@ -9,7 +9,9 @@ location: "Evanston, IL"
 ---
 
 # Computational Thinking Across Disciplines
-_Course Proposal_ - Upper Level Undergraduate Course (15 - 30 students) – 3 Class Periods (50 mins) each week
+_Course Proposal_
+
+Upper Level Undergraduate Course (15 - 30 students) – 3 Class Periods (50 mins) each week
 
 ## Overarching Argument
 As both a computer scientist and an educator, I feel that students often do not realize the extent to which their field of study is driven by computation. In addition, while you often hear about what computers can do, you don’t often hear what they can’t do. This course will provide an opportunity to students to not only get their feet wet in the computational realm by playing with software, programming languages, and other computational devices, but also provide them an opportunity to explore how and in what ways their own interests are explorable via computation.
@@ -29,10 +31,8 @@ The main goal of the course is to show students that computation isn’t simply 
 1. Develop the ability to break down a project into sub-problems that lend themselves to computational solutions
 2. Understand how to find and evaluate computational tools for a given problem (and in a given domain)
 3. Recognize computing tools as an additional means of expressing ideas
-4. Demonstrate competence in being able to communicate your chosen computational
-methods to a non-expert audience
-5. Plan, design, and carry out a project in which computation is used a primary means of
-discovery and understanding
+4. Demonstrate competence in being able to communicate your chosen computational methods to a non-expert audience
+5. Plan, design, and carry out a project in which computation is used a primary means of discovery and understanding
 
 # Assessments
 Because the course is centered around empowering students with computational tools, most of the assignments focus on getting students discovering, using, and evaluating different tools. These differ from traditional computer science assignments in that they are almost exclusively driven by students’ interests.
