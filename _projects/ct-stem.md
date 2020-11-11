@@ -1,9 +1,9 @@
 ---
 title: "CT-STEM Project @ NU"
-excerpt: "<img src='/images/ct-stem.png'>"
+excerpt: ""
 collection: projects
 header:
-  teaser: "unsplash-gallery-image-2-th.jpg"
+  teaser: "ct-stem.png"
 ---
 
 Curriculum developers

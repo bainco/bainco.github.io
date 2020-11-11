@@ -1,7 +1,9 @@
 ---
 title: "Computational Thinking Summer Institute (CTSI)"
-excerpt: "<img src='/images/ctsi.png'>"
+excerpt: ""
 collection: projects
+header:
+  teaser: "ct-stem.png"
 ---
 
 Co-Designer;
