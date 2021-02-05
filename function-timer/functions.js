@@ -109,13 +109,13 @@ var functions = [
   {
     fn: numberOfHalves,
     fnPython: "# count the number of halves you need to get n below 1.\ndef numberOfHalves(n):\n    count = 0\n    while n > 1:\n        n /= 2\n        count += 1\n    return count",
-    className: "light",
-    color: "#F8F9FA"
+    className: "dark",
+    color: "#353A40"
   },
   {
     fn: totalNumberOfHalves,
     fnPython:"# apply numberOfHalves to all numbers between 1 and n \n# and sum the results.\ndef totalNumberOfHalves(n):\n    total = 0\n    for i in range(n):\n        total += numberOfHalves(n)\n    return total",
-    className: "dark",
-    color: "#353A40"
+    className: "link",
+    color: "#543E7C"
   },
 ];
