@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Python Timer</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/styles/default.min.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/highlight.min.js"></script>
+  <script src="https://d3js.org/d3.v4.js"></script>
+  <script src="https://use.fontawesome.com/f3a4c4be3a.js"></script>
+</head>
+<body>
+  <div class="jumbotron text-center">
+    <h1 class="display-4">
+      Function Timer
+    </h1>
+    <section class="buttons">
+      <div class="btn-area"></div>
+      <div class="plot-area">
+        <form id="plot">
+          <input type="number" name="fn_input" class="form-control" placeholder="n = ...">
+          <button type="submit" class="btn btn-dark">Plot!</button>
+          <div class="calculating hidden">
+            <i class="fa fa-cog fa-spin fa-2x fa-fw text-dark"></i>
+            <small>Calculating...</small>
+          </div>
+        </form>
+      </div>
+    </section>
+  </div>
+  <div class="container">
+    <div class="row">
+      <div class="col-6">
+        <pre>
+          <code class="py"></code>
+        </pre>
+      </div>
+      <div class="col-6">
+        <svg></svg>
+        <small class="pull-right text-secondary">⌘ + click on a point to remove it; shift + click to remove all data for that function.</small>
+      </div>
+    </div>
+  </div>
+  <script src="functions.js"></script>
+  <script src="app.js"></script>
+  <br>
+  <p align='center'>Adapted from <a href="https://rithmschool.github.io/function-timer-demo/">Rithmschool's Function Timer Demo</a></p>
+</body>
+</html>
