@@ -79,7 +79,7 @@ var functions = [
   {
     fn: countUpBy2,
     className: "secondary",
-    fnPython:"def countUpBy1(n):\n    for i in range(0, n, 2):\n        print(i)",
+    fnPython:"def countUpBy2(n):\n    for i in range(0, n, 2):\n        print(i)",
     color: "#6E757D"
   },
   {
@@ -96,7 +96,7 @@ var functions = [
   },
   {
     fn: countUpAndDown,
-    fnPython:'def countUpAndDown(n):\n    print("Going up!")\n    for i in range(n + 1):\n        print(i)\n        print("At the top! Going down...");\n    for j in reversed(range(n)):\n        print(j)\n    print("Done!")',
+    fnPython:'def countUpAndDown(n):\n    print("Going up!")\n    for i in range(n + 1):\n        print(i)\n    print("At the top! Going down...");\n    for j in reversed(range(n)):\n        print(j)\n    print("Done!")',
     className: "warning",
     color: "#F6C40C"
   },
