@@ -73,49 +73,57 @@ var functions = [
     fn: countUpBy1,
     className: "primary",
     fnPython:"def countUpBy1(n):\n    for i in range(n):\n        print(i)",
-    color: "#3978FF"
+    color: "#3978FF",
+    bigOh: function(n) {return n;}
   },
 
   {
     fn: countUpBy2,
     className: "secondary",
     fnPython:"def countUpBy2(n):\n    for i in range(0, n, 2):\n        print(i)",
-    color: "#6E757D"
-  },
-  {
-    fn: addUpToVersion1,
-    className: "success",
-    fnPython:"# this function uses a brute force solution\n# to calculate the sum of all numbers from 1 to n.\ndef addUpToVersion1(n):\n    total = 0\n    for i in range(n+1):\n        total += i\n        return total",
-    color: "#4CA442"
-  },
-  {
-    fn: addUpToVersion2,
-    className: "danger",
-    fnPython:"# this function uses a closed form solution to calculate\n# the sum of all numbers from 1 to n.\ndef addUpToVersion2(n):\n    return n * (n + 1) / 2",
-    color: "#CD4748"
+    color: "#6E757D",
+    bigOh: function(n) {return n/2;}
   },
   {
     fn: countUpAndDown,
     fnPython:'def countUpAndDown(n):\n    print("Going up!")\n    for i in range(n + 1):\n        print(i)\n    print("At the top! Going down...");\n    for j in reversed(range(n)):\n        print(j)\n    print("Done!")',
     className: "warning",
-    color: "#F6C40C"
+    color: "#F6C40C",
+    bigOh: function(n) {return 2*n;}
+  },
+  {
+    fn: addUpToVersion1,
+    className: "success",
+    fnPython:"# this function uses a brute force solution\n# to calculate the sum of all numbers from 1 to n.\ndef addUpToVersion1(n):\n    total = 0\n    for i in range(n+1):\n        total += i\n        return total",
+    color: "#4CA442",
+    bigOh: function(n) {return n;}
+  },
+  {
+    fn: addUpToVersion2,
+    className: "danger",
+    fnPython:"# this function uses a closed form solution to calculate\n# the sum of all numbers from 1 to n.\ndef addUpToVersion2(n):\n    return n * (n + 1) / 2",
+    color: "#CD4748",
+    bigOh: function(n) {return 1;}
   },
   {
     fn: printAllPairs,
     fnPython:"def printAllPairs(n):\n    for i in range(n):\n        for j in range(n):\n            print(i, j)",
     className: "info",
-    color: "#479FB8"
+    color: "#479FB8",
+    bigOh: function(n) {return n * n;}
   },
   {
     fn: numberOfHalves,
     fnPython: "# count the number of halves you need to get n below 1.\ndef numberOfHalves(n):\n    count = 0\n    while n > 1:\n        n /= 2\n        count += 1\n    return count",
     className: "dark",
-    color: "#353A40"
+    color: "#353A40",
+    bigOh: function(n) {return Math.log(n) / Math.log(2);}
   },
   {
     fn: totalNumberOfHalves,
     fnPython:"# apply numberOfHalves to all numbers between 1 and n \n# and sum the results.\ndef totalNumberOfHalves(n):\n    total = 0\n    for i in range(n):\n        total += numberOfHalves(n)\n    return total",
     className: "link",
-    color: "#543E7C"
+    color: "#543E7C",
+    bigOh: function(n) {return n * Math.log(n) / Math.log(2);}
   },
 ];

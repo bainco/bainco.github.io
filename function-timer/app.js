@@ -29,7 +29,8 @@ document.addEventListener("DOMContentLoaded", function() {
 
           circleData.push({
             x: value,
-            y: event.data.time,
+            y: event.data.bigOh(x),
+            //y: event.data.time,
             color: event.data.color
           });
 
