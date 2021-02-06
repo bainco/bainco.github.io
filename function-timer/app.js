@@ -7,7 +7,25 @@ var tHover = d3.transition()
   .duration(500)
   .ease(d3.easeLinear);
 
+  function modeToggle(){
+    if(document.getElementById('modeSwitch').checked){
+      localStorage.setItem('mode', 'op-mode');
+    } else {
+      localStorage.setItem('mode', '');
+    }
+    location.reload();
+  }
+
 document.addEventListener("DOMContentLoaded", function() {
+
+  var tSwitcher = document.getElementById('modeSwitch');
+  let element = document.body;
+
+  let onpageLoad = localStorage.getItem("mode") || "";
+  if (onpageLoad != null && onpageLoad  == 'op-mode'){
+    tSwitcher.checked = true;
+    document.getElementById("title-header").innerHTML = "Function OpCounter"
+  }
 
   setUpFunctions();
   d3.select(".btn-primary").dispatch("click");
@@ -27,12 +45,21 @@ document.addEventListener("DOMContentLoaded", function() {
           button.classed("disabled", false);
           calculating.classed("hidden", true);
 
+        if (document.getElementById('modeSwitch').checked) {
           circleData.push({
             x: value,
             y: currentFn.bigOh(value),
             //y: event.data.time,
             color: event.data.color
           });
+        }
+        else {
+          circleData.push({
+            x: value,
+            y: event.data.time,
+            color: event.data.color
+          });
+        }
 
           updateGraph(
             d3.select("svg"),
@@ -106,14 +133,24 @@ function setUpGraph() {
     .attr("transform", "translate(" + (width / 2) + ", " + (height - padding.bottom / 4) +")")
     .text("n (size of input)");
 
-  svg
-    .append("text")
-    .classed("label", true)
-    .attr("transform", "rotate(-90)")
-    .attr("x", (-height + padding.top + padding.bottom ) / 2)
-    .attr("y", 15)
-    .text("Time Elapsed (seconds)");
-
+    if (document.getElementById('modeSwitch').checked) {
+      svg
+      .append("text")
+      .classed("label", true)
+      .attr("transform", "rotate(-90)")
+      .attr("x", (-height + padding.top + padding.bottom ) / 2)
+      .attr("y", 15)
+      .text("Approx. Number of Operations");
+    }
+    else {
+      svg
+      .append("text")
+      .classed("label", true)
+      .attr("transform", "rotate(-90)")
+      .attr("x", (-height + padding.top + padding.bottom ) / 2)
+      .attr("y", 15)
+      .text("Time Elapsed (seconds)");
+    }
 }
 
 function updateGraph(svg, circleData, currentFn) {
