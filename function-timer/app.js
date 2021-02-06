@@ -29,7 +29,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
           circleData.push({
             x: value,
-            y: event.data.bigOh(value),
+            y: currentFn.bigOh(value),
             //y: event.data.time,
             color: event.data.color
           });
