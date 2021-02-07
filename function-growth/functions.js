@@ -94,7 +94,7 @@ var functions = [
   {
     fn: addUpToVersion1,
     className: "success",
-    fnPython:"# this function uses a brute force solution\n# to calculate the sum of all numbers from 1 to n.\ndef addUpToVersion1(n):\n    total = 0\n    for i in range(n+1):\n        total += i\n        return total",
+    fnPython:"# this function uses a brute force solution\n# to calculate the sum of all numbers from 1 to n.\ndef addUpToVersion1(n):\n    total = 0\n    for i in range(n+1):\n        total += i\n    return total",
     color: "#4CA442",
     bigOh: function(n) {return n;}
   },
