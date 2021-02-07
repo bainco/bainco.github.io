@@ -3,6 +3,9 @@ var currentCirc = null;
 var radius = 5;
 var hoverRadius = 8;
 var circleData = [];
+
+var SCALING_FACTOR = 1000;
+
 var tHover = d3.transition()
   .duration(500)
   .ease(d3.easeLinear);
@@ -25,6 +28,7 @@ document.addEventListener("DOMContentLoaded", function() {
   if (onpageLoad != null && onpageLoad  == 'op-mode'){
     tSwitcher.checked = true;
     document.getElementById("title-header").innerHTML = "Function OpCounter"
+    SCALING_FACTOR = 1;
   }
 
   setUpFunctions();
@@ -169,7 +173,7 @@ function updateGraph(svg, circleData, currentFn) {
     .range([padding.left, width - padding.right]);
 
   var yScale = d3.scaleLinear()
-    .domain(d3.extent(circleData, d => d.y / 1000))
+    .domain(d3.extent(circleData, d => d.y / SCALING_FACTOR))
     .range([height - padding.bottom, padding.top]);
 
   // update axes
@@ -205,7 +209,7 @@ function updateGraph(svg, circleData, currentFn) {
   circles
     .transition(t)
     .attr("cx", d => xScale(d.x))
-    .attr("cy", d => yScale(d.y / 1000));
+    .attr("cy", d => yScale(d.y / SCALING_FACTOR));
 
   circles
     .enter()
@@ -213,7 +217,7 @@ function updateGraph(svg, circleData, currentFn) {
       .attr("fill", d => d.color)
       .attr("r", 0)
       .attr("cx", d => xScale(d.x))
-      .attr("cy", d => yScale(d.y / 1000))
+      .attr("cy", d => yScale(d.y / SCALING_FACTOR))
       .on("mousemove", handleHover)
       .on("mouseout", handleMouseOut)
       .on("click", handleClick)
@@ -239,7 +243,7 @@ function updateGraph(svg, circleData, currentFn) {
       .attr("d", d => d3
         .line()
         .x(d => xScale(d.x))
-        .y(d => yScale(d.y / 1000))
+        .y(d => yScale(d.y / SCALING_FACTOR))
         (d.value.sort((d1, d2) => d1.x - d2.x))
       );
 
