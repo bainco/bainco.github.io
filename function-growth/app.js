@@ -187,15 +187,32 @@ function updateGraph(svg, circleData, currentFn) {
         .tickSizeOuter(0)
     );
 
-  svg
-    .select(".y-axis")
-    .transition(t)
-    .call(
-      d3.axisLeft(yScale)
+
+
+    if (document.getElementById('modeSwitch').checked) {
+      svg
+      .select(".y-axis")
+      .transition(t)
+      .call(
+        d3.axisLeft(yScale)
+        .tickFormat(d3.format(",.2r"))
+        .tickSize(-width + padding.left + padding.right)
+        .tickSizeOuter(0)
+      );
+    }
+    else {
+      svg
+      .select(".y-axis")
+      .transition(t)
+      .call(
+        d3.axisLeft(yScale)
         .tickFormat(d3.format(".2s"))
         .tickSize(-width + padding.left + padding.right)
         .tickSizeOuter(0)
-    );
+      );
+
+    }
+
 
   // update circles
   var circles = svg
