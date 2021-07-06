@@ -8,6 +8,6 @@ venue: "Northwestern University"
 semester: "Fall"
 date: 09-01-2018
 present: false
-end:"August 2021"
+end: "August 2021"
 location: "Evanston, IL"
 ---
