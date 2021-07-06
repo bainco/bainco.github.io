@@ -7,7 +7,8 @@ link: "https://www.northwestern.edu/searle/services/feedback-on-teaching/small-g
 venue: "Northwestern University"
 semester: "Fall"
 date: 09-01-2018
-present: true
+end: "Spring 2021"
+present: false
 
 location: "Evanston, IL"
 ---
