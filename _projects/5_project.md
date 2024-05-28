@@ -85,7 +85,7 @@ In the first few week of class we focused on making our programs _mnemonic_. Thi
 
 ## Microassessments
 
-I was able to design a number of peer review focused review focused multiple choice questions both for our "Mini-Quiz" assignments on Friday which are completed via PollEverywhere and for our in-person "Quizzes" (exams). Here's an example!
+I was able to design a number of peer review focused multiple choice questions both for our "Mini-Quiz" assignments on Friday which are completed via PollEverywhere and for our in-person "Quizzes" (exams). Here's an example!
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -116,14 +116,14 @@ I've begun an initial lexical analysis of the feedback given (with around 330 ru
 
 Unfortunately, not all went to plan so we had to design some specialized tools to fix those problems.
 
-* While Canvas **happens** to support previewing `.py` files in its preview window, when assigned as a peer review **it prevents students from downloading the submission** which means they can't actually download it to their computer and run it like a regular computer program.
+* While Canvas **happens** to support previewing `.py` files in its preview window, when assigned as a peer review **it prevents students from downloading the submission** which means they can't actually download it to their computer and run it like a regular computer program (also worth noting a good like 70% of the time, these previews never end up rendering without any error message - just an infinite loading animation)
 * In order to make it a "graded" peer review, Canvas insisted I needed to assign rubric items points. Well, my goal was _participation_ in the Peer Feedback process, so I made all rubric selections equal in terms of points (i.e. someone's feedback doesn't affect your grade).
 * Turns out...when you do this, Canvas actually _incorrectly displays_ the selections on the rubric to the person who you gave feedback. It'll show the correct number of points, _but it shows category selections wrong_!!!
 * If someone didn't submit the assignment that's being peer-reviewed, they don't automatically get assigned a peer's submission to review
 * That's fine...but it doesn't say that when you generate the assignments, so I mistakenly assigned those people a peer's submission to review which Canvas then notifies them about...**but won't actually allow them to submit it.**
 * As usual, a small number of students took advantage of my lack of specificity in the instructions "leave a comment on each rubric item indicating why you selected that rubric item" and simply wrote one word answers to most of the comments.
 
-You can find all the code I used to solve those problems at the below GitHub repo. Over the summer, I plan on narrativizing these programs and making them fit for a non-programming audience since, while this problem occurred in my class because I wanted to students to give feedback on programs, this same process could apply to any class where students are unable to give feedback using Canvas' built-in feedback tool (basically anything beyond a `txt`, `docx`, or `pdf` file). 
+You can find all the code I used to solve those problems at the below GitHub repo. Over the summer, I plan on narrativizing these programs and making them fit for a non-programming audience since, while this problem occurred in my class because I wanted to students to give feedback on programs, this same process could apply to any class where students are unable to give feedback using Canvas' built-in feedback tool (basically anything beyond a `txt`, `docx`, or `pdf` file).
 
 {% if site.data.repositories.github_repos %}
 
