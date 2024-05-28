@@ -50,8 +50,3 @@ While we were unable to formally evaluate the specific changes made to the sylla
 In addition to the project elements (found on the Projects page), you'll find a series of book theme reflections from the various Searle Fellows Salons as well as an "evolving" teaching statement that has been updated as I've progressed through the program.
 
 Thanks to the Searle Fellows Program and a special thanks to my Mentor, [Dr. Michael Fagen](https://www.feinberg.northwestern.edu/faculty-profiles/az/profile.html?xid=31193) and Project Group Leader [Kate Flom Derrick](https://searle.northwestern.edu/about/staff-grad-postdoc/kate-flom-derrick.html).
-
-2. Before Teaching Statement: The statement you submitted with your Searle Fellows application.
-3. After Teaching Statement: A revised statement that reflects your learning and growth based on your experiences throughout the Searle Fellows program.
-4. Learning & Teaching Project (Plan, 2 Process Artifacts, Final Product)
-5. Book Theme Reflections (minimum of 3): For each event connected to a featured book, you will have an opportunity during the event to add an artifact that captures a spark of inspiration, a goal for implementation, or a reflection.

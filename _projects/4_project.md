@@ -2,7 +2,7 @@
 layout: page
 title: Project Update (April 2024)
 description: attempt 2
-img: assets/img/7.jpg
+img: assets/img/wip.png
 importance: 4
 category: work
 ---

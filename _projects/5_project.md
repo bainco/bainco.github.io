@@ -2,7 +2,7 @@
 layout: page
 title: Final Project Report
 description: a work in progress
-img: assets/img/7.jpg
+img: assets/img/final.png
 importance: 5
 category: work
 ---

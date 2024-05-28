@@ -2,7 +2,7 @@
 layout: page
 title: Project Plan
 description: Implementing Peer Review as a Course Learning Objective in CS 110
-img: assets/img/12.jpg
+img: assets/img/12.png
 importance: 1
 category: work
 related_publications: false

@@ -2,7 +2,7 @@
 layout: page
 title: Project Update (Feb 2024)
 description: oh canvas.
-img: assets/img/7.jpg
+img: assets/img/7.png
 importance: 3
 category: work
 ---

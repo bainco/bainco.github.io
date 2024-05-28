@@ -2,7 +2,7 @@
 layout: page
 title: Project Update (Jan 2024)
 description: some changes to be more realistic
-img: assets/img/3.jpg
+img: assets/img/3.png
 importance: 2
 category: work
 giscus_comments: false
