@@ -19,12 +19,12 @@ Canvas LMS has a Peer Review Tool built-into it which, I thought, would do most 
 
 This is great right?!? It seems like it should work perfectly for our use case. I entered in all the assignment details, made some screenshots of the process, etc.. Everything was great until a student showed me what their side of things looked like (you can't use the Student View feature of Canvas to preview a Peer Review because `Test Student` can't be assigned as a peer reviewer).
 
-* While Canvas **happens** to support previewing `.py` files in its preview window, when assigned as a peer review **it prevents students from downloading the submission** which means they can't actually download it to their computer and run it like a regular computer program.
-* In order to make it a "graded" peer review, Canvas insisted I needed to assign rubric items points. Well, my goal was _participation_ in the Peer Feedback process, so I made all rubric selections equal in terms of points (i.e. someone's feedback doesn't affect your grade). 
-* Turns out...when you do this, Canvas actually _incorrectly displays_ the selections on the rubric to the person who you gave feedback. It'll show the correct number of points, _but it shows category selections wrong_!!!
-* If someone didn't submit the assignment that's being peer-reviewed, they don't automatically get assigned a peer's submission to review
-* That's fine...but it doesn't say that when you generate the assignments, so I mistakenly assigned those people a peer's submission to review which Canvas then notifies them about...**but won't actually allow them to submit it.**
-* As usual, a small number of students took advantage of my lack of specificity in the instructions "leave a comment on each rubric item indicating why you selected that rubric item" and simply wrote one word answers to most of the comments.
+- While Canvas **happens** to support previewing `.py` files in its preview window, when assigned as a peer review **it prevents students from downloading the submission** which means they can't actually download it to their computer and run it like a regular computer program.
+- In order to make it a "graded" peer review, Canvas insisted I needed to assign rubric items points. Well, my goal was _participation_ in the Peer Feedback process, so I made all rubric selections equal in terms of points (i.e. someone's feedback doesn't affect your grade).
+- Turns out...when you do this, Canvas actually _incorrectly displays_ the selections on the rubric to the person who you gave feedback. It'll show the correct number of points, _but it shows category selections wrong_!!!
+- If someone didn't submit the assignment that's being peer-reviewed, they don't automatically get assigned a peer's submission to review
+- That's fine...but it doesn't say that when you generate the assignments, so I mistakenly assigned those people a peer's submission to review which Canvas then notifies them about...**but won't actually allow them to submit it.**
+- As usual, a small number of students took advantage of my lack of specificity in the instructions "leave a comment on each rubric item indicating why you selected that rubric item" and simply wrote one word answers to most of the comments.
 
 ### Solutions
 
@@ -50,16 +50,16 @@ Fourth, I edited the instructions for leaving comments. I required students to l
 
 Overall, it could have been worse. This is sort of the peril of doing anything new in a class this size. One little issue and suddenly 250 people are freaking out. Some conclusions here:
 
-* I'm ready to do this again because I now have prototype tools for the activity
-* This data won't be fit to be analyzed beyond limited qualitative conclusions
-* The Canvas PR tool isn't fit for this sort of assignment (but I don't have time during the year to make my own)
+- I'm ready to do this again because I now have prototype tools for the activity
+- This data won't be fit to be analyzed beyond limited qualitative conclusions
+- The Canvas PR tool isn't fit for this sort of assignment (but I don't have time during the year to make my own)
 
 While I'm disappointed by this attempt, I will say I heard five positive things about this assignment:
 
-* Student: "It was so cool to see someone else's program! It made me feel so much more like I belonged than before. I just assumed everyone was better at programming than me"
-* Peer Mentor: "After this week I finally heard people talk about 'cleaning up their programs' rather than just getting it done."
-* Peer Mentor: "I think this turned out pretty well - I thought it'd be a disaster"
-* Student: "I really appreciated the comments I got. I both felt like I had accomplished something because they gave me compliments but they also gave me an idea to try out" (since they use their design in HW 3 in HW 5).
-* Student: "I actually borrowed their idea for my next homework – it was too cute to pass up!"
+- Student: "It was so cool to see someone else's program! It made me feel so much more like I belonged than before. I just assumed everyone was better at programming than me"
+- Peer Mentor: "After this week I finally heard people talk about 'cleaning up their programs' rather than just getting it done."
+- Peer Mentor: "I think this turned out pretty well - I thought it'd be a disaster"
+- Student: "I really appreciated the comments I got. I both felt like I had accomplished something because they gave me compliments but they also gave me an idea to try out" (since they use their design in HW 3 in HW 5).
+- Student: "I actually borrowed their idea for my next homework – it was too cute to pass up!"
 
 Luckily, I found out I'm teaching this class again in Spring, so I'll try again then.

@@ -19,14 +19,15 @@ My focus in intro coursework (which is likely going to be the target of my Searl
 I don't have time to answer those bigger questions at the moment, so let's focus on some more specific implementation details in my course and my own teaching statement (the goal of the workshop).
 
 ### Questions for my own Teaching Statement
-* I spend so much of my time on work that isn't described or featured in my teaching statement: dealing with student issues; designing for flexibility; struggling with appropriate assessment. How do I include these experiences in my teaching statement in a way that shows not everything is perfect but I'm trying to make things better?
-* How do I show flexibility in schedule and content while dealing with the fact that students **do not actually want flexibility** in large courses – they want to know what/when in order to optimize their time?
- 
-### Questions for Other Fellows / the Program
-* Are grades hurtful or helpful?
-* How do we deal with large scale classrooms? (100+ students vs. 1 professor)
-* Dealing with student expectations – what happens when students come into your class expecting something it's not designed to be?
 
+- I spend so much of my time on work that isn't described or featured in my teaching statement: dealing with student issues; designing for flexibility; struggling with appropriate assessment. How do I include these experiences in my teaching statement in a way that shows not everything is perfect but I'm trying to make things better?
+- How do I show flexibility in schedule and content while dealing with the fact that students **do not actually want flexibility** in large courses – they want to know what/when in order to optimize their time?
+
+### Questions for Other Fellows / the Program
+
+- Are grades hurtful or helpful?
+- How do we deal with large scale classrooms? (100+ students vs. 1 professor)
+- Dealing with student expectations – what happens when students come into your class expecting something it's not designed to be?
 
 ## Guest Lecture: Raj Choudhury
 

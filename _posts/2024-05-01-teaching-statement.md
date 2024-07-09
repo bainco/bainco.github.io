@@ -3,7 +3,7 @@ layout: post
 title: New Teaching Statement
 date: 2024-05-01 00:00:00
 description: a new take on my teaching statement
-tags: teaching  
+tags: teaching
 categories: teaching-statements
 tabs: true
 ---

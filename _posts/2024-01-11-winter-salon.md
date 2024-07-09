@@ -16,9 +16,9 @@ This is a weird one for me. I can't ban laptops in my classroom. They're our mai
 
 To incentivize working together and actually **speaking** to each other about programming anyone that attends and participates on Wednesdays and Fridays gets full credit for those assignments (with those who choose not to attend getting graded on accuracy). However, each quarter, a small group of students has emerged that does one of the following:
 
-* Simply waits for their group to solve the challenge and submits the group's response as their own
-* Randomly guesses on PollEverywhere responses in order to receive credit
-* Just sits in the classroom without participating at all and claims "attending" should be enough to receive credit
+- Simply waits for their group to solve the challenge and submits the group's response as their own
+- Randomly guesses on PollEverywhere responses in order to receive credit
+- Just sits in the classroom without participating at all and claims "attending" should be enough to receive credit
 
 Additionally, I've seen more and more students equate "attendance" with "understanding." In meetings with students after exams, they often start with "I attend nearly every class" which is only the START of a learning process.
 
@@ -28,15 +28,15 @@ A big theme of today's discussion was _wonder_ and curiosity. In COMP_SCI 110, t
 
 But this has also caused issues for me in this course. Many students see the terrarium assignment as "beneath them" (it even shows up on CTECs described as a "kiddie assignment"). While a small group of students see that the assignment can be as challenging as you want it to be (in fact...it shares a tremendous amount with the actual process of video game development), there's also a group that fails to see that while the basic requirements of the project are just that, the real underlying challenge is taking an idea from your head, and getting to the computer to a point that it "understands" and "implements" that idea. It's a process of taking a 'simple' action like _I want my fish to jump in an out of the water_ and breaking it into programming tools:
 
-* First I need some way of determining the current position of the fish
-* If they're jumping up I need to figure out where they'll be next
-* If they're falling down, I need to figure out where they'll be next
-* How do I trigger the jump?
-* How do I make sure that jump doesn't affect any of the other movements in my program
-* What sorts of programming tools can I use to make this happen
-* I can't put it in a loop by itself since that would mean none of my other animations will happen
-* That means I have to integrate it with the other animations
-* ...
+- First I need some way of determining the current position of the fish
+- If they're jumping up I need to figure out where they'll be next
+- If they're falling down, I need to figure out where they'll be next
+- How do I trigger the jump?
+- How do I make sure that jump doesn't affect any of the other movements in my program
+- What sorts of programming tools can I use to make this happen
+- I can't put it in a loop by itself since that would mean none of my other animations will happen
+- That means I have to integrate it with the other animations
+- ...
 
 That "small" action is actually quite complex. You need to be able to think with the tools we have introduced in the class in a flexible enough way that you can actually implement this thing!
 
