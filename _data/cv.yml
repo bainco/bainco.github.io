@@ -4,7 +4,7 @@
     - name: name
       value: Connor Bain
     - name: title
-      value: Assistant Professor of Instruction 
+      value: Assistant Professor of Instruction
     - name: affiliation
       value: Department of Computer Science<br>McCormick School of Engineering<br>Northwestern University
     - name: email
@@ -19,7 +19,7 @@
   contents:
     - title: Assistant Professor of Instruction, Computer Science
       institution: McCormick School of Engineering, Northwestern University
-      year: 2021 - 
+      year: 2021 -
       description:
         - <i>Affiliate Faculty Member:</i><br>Computer Science and Learning Sciences Program
 
@@ -142,10 +142,10 @@
   contents:
     - title: Academic Standing Committee
       institution: McCormick School of Engineering, Northwestern University
-      year: 2023 - 
+      year: 2023 -
     - title: Academic Appeals Committee
       institution: McCormick School of Engineering, Northwestern University
-      year: 2023 - 
+      year: 2023 -
     - title: Teaching Assistant and Peer Mentor Awards Committee, Computer Science
       institution: McCormick School of Engineering, Northwestern University
       year: 2023 -
@@ -154,11 +154,11 @@
       year: 2023, 2024
     - title: Faculty Fellow, Willard Residential College
       institution: Northwestern University
-      year: 2021 - 
+      year: 2021 -
       description: Previously Assistant Faculty Chair (2018 - 2021)
     - title: <a href="https://github.com/NetLogo/models">NetLogo Models Library</a> – Managing Editor
       institution: Northwestern University
-      year: 2016 - 2021 
+      year: 2016 - 2021
       description: Previously Assistant Faculty Chair (2018 - 2021)
     - title: Reviewer (various)
       description:
