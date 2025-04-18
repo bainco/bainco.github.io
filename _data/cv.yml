@@ -1,97 +1,171 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+    - name: name
+      value: Connor Bain
+    - name: title
+      value: Assistant Professor of Instruction 
+    - name: affiliation
+      value: Department of Computer Science<br>McCormick School of Engineering<br>Northwestern University
+    - name: email
+      value: connor.bain@northwestern.edu
+    - name: phone
+      value: +1 (847) 467-6455
+    - name: address
+      value: "2233 Tech Drive<br>3rd Floor<br>Evanston, IL 60202 USA"
+
+- title: Appointments
+  type: time_table
+  contents:
+    - title: Assistant Professor of Instruction, Computer Science
+      institution: McCormick School of Engineering, Northwestern University
+      year: 2021 - 
+      description:
+        - <i>Affiliate Faculty Member:</i><br>Computer Science and Learning Sciences Program
+
+- title: Research Interests
+  type: nested_list
+  contents:
+    - title: Computational literacy
+      items:
+        - To what extent is the process of computer programming reflective of concretization of knowledge in learners?
+        - What aspects of computer science are most challenging to learners?
+    - title: Teacher practice & expertise
+      items:
+        - What are the differences between expert-knowledge, novice-knowledge, and teacher-knowledge that make teachers effective?
+        - How can we design technological tools to allow for teacher pedagogy to evolve?
+    - title: Translating research contributions to educational experiences
+      items:
+        - Taking current work on the edge of computer science (and other disciplines) and working with researchers to create educational content for local students to strengthen broader impacts of work
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Ph.D., Computer Science and Learning Sciences
+      institution: School of Education and Social Policy & <br>McCormick School of Engineering<br>Northwestern University, Evanston, IL, USA
+      year: 2021
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Empowering Teachers to CT-ify the Science Classroom
+        - "Advisor: Prof. Uri Wilensky"
+    - title: M.S., Computer Science
+      institution: McCormick School of Engineering<br>Northwestern University, Evanston, IL, USA
+      year: 2021
       description:
-        - Description 1.
-        - Description 2.
-
-- title: Experience
-  type: time_table
-  contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+        - "<i>Thesis</i>: Teaching CS: Identifying Unique Aspects of the Role of a CS Teacher in the Classroom"
+    - title: B.S., Mathematics
+      institution: University of South Carolina, Columbia, SC, USA
+      year: 2015
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - <i>with Honors from the <b>South Carolina Honors College</b></i>
+        - <i>summa cum laude</i>
+    - title: B.S.C.S., Computer Science
+      institution: University of South Carolina, Columbia, SC, USA
+      year: 2015
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+        - <i>with Leadership Distinction in Civic and Professional Engagement</i>
+        - <i>summa cum laude<i>
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2024
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - NU Learning Technologies – <a href="https://www.it.northwestern.edu/departments/it-services-support/teaching/canvas-hall-of-fame/">Most Innovative Course Site for COMP_SCI 110</a>
+    - year: 2023
       items:
-        - Max Planck Medal
+        - NU Learning Technologies – (Finalist) Best Use of Video for COMP_SCI 111
+        - <a href='https://searle.northwestern.edu/programs-services/programs/program-pages/searle-fellows-program.html'>Searle Fellow</a> (NU - Center for Teaching and Learning)
+    - year: 2022
+      items:
+        - Associated Student Government Faculty Honor Roll
+    - year: 2020
+      items:
+        - McCormick School of Engineering – George H. and D.G. Martin Fellowship
+    - year: 2018
+      items:
+        - Northwestern University <a href="https://www.tgs.northwestern.edu/funding/fellowships-and-grants/internal-fellowships-grants/presidential-fellowship-winners/">Presidential Fellowship</a> (Finalist)
+    - year: 2015
+      items:
+        - National Science Foundation Graduate Research Fellowship
+        - <a href="https://sc.edu/about/offices_and_divisions/leadership_and_service_center/awards_and_recognition/senior-awards/">Algernon Sydney Sullivan Award</a>, <b>University of South Carolina</b>
+    - year: 2014
+      items:
+        - <a href="https://goldwaterscholarship.gov">Barry M. Goldwater Scholar</a>
+        - <i>Phi Beta Kappa</i>
+    - year: 2013
+      items:
+        - <a href="https://www.udall.gov/ourprograms/scholarship/scholarship.aspx">Udall Scholarship</a> (Honorable Mention)
+        - title: Carolina Leadership Initiative Award
+          contents: <i>Expanding Scientific Leadership through Carolina Science Outreach</i>
 
-- title: Academic Interests
+- title: Teaching Experience
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: <a href="https://www.mccormick.northwestern.edu/computer-science/academics/courses/descriptions/110.html">COMP_SCI 110</a> - Introduction to Computer Programming
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Instructor, Northwestern University
+        - "Avg. Class Size: 185 – Total Students: 1220"
+        - <i>Winter 2022</i>, <i>Spring 2022</i>, <i>Winter 2023</i>, <i>Spring 2023</i>, <i>Winter 2024</i>, <i>Spring 2024</i>, <i>Winter 2025</i>
+    - title: <a href="https://www.mccormick.northwestern.edu/computer-science/academics/courses/descriptions/111.html">COMP_SCI 111</a> - Fundamentals of Computer Programming I
       items:
-        - Description 1.
-        - Description 2.
+        - Instructor, Northwestern University
+        - "Avg. Class Size: 396 – Total Students: 1589"
+        - <i>Fall 2021</i>, <i>Fall 2022</i>, <i>Fall 2023</i>, <i>Fall 2024</i>
+    - title: <a href="https://www.mccormick.northwestern.edu/computer-science/academics/courses/descriptions/212.html">COMP_SCI 212</a> - Mathematical Foundations of CS
+      items:
+        - Instructor, Northwestern University
+        - <i>Fall 2022</i>
+    - title: <a href="https://www.mccormick.northwestern.edu/computer-science/academics/courses/descriptions/396-11.html">COMP_SCI 396</a> - Communicating Computer Science
+      items:
+        - Course Designer & Instructor, Northwestern University
+        - "Avg. Class Size: 36 – Total Students: 125"
+        - <i>Winter 2022</i>, <i>Spring 2022</i>, <i>Spring 2023</i>, <i>Spring 2024</i>, <i>Spring 2025</i>
+    - title: <a href="https://www.mccormick.northwestern.edu/computer-science/academics/courses/descriptions/396-496-30.html">COMP_SCI 396 + 496</a> - Pedagogical Design in CS
+      items:
+        - Course Designer & Instructor, Northwestern University
+        - <i>Spring 2025</i>
+    - title: <a href="https://catalogs.northwestern.edu/undergraduate/courses-az/sesp/">SESP 310</a> - Introduction to Statistical Causal Inference
+      items:
+        - Course Designer & Instructor, Northwestern University
+        - <i>Spring 2020</i>
+    - title: <a href="https://www.mccormick.northwestern.edu/computer-science/academics/courses/descriptions/372-472.html">COMP_SCI 372/427 + LRN_SCI 496</a> - Designing and Constructing Models with Multi-Agent Languages
+      items:
+        - Guest Lecturer & Teaching Assistant, Northwestern University
+        - <i>Spring 2018</i>, <i>Spring 2019</i>, <i>Spring 2021</i>
+    - title: <a href="https://catalogs.northwestern.edu/undergraduate/courses-az/sesp/">SESP 210</a> - Introduction to Statistics and Research
+      items:
+        - Recitation Instructor & Guest Lecturer, Northwestern University
+        - <i>Winter 2016</i>, <i>Fall 2016</i>, <i>Winter 2017</i>, <i>Fall 2017</i>, <i>Winter 2019</i>
 
-- title: Other Interests
-  type: list
+- title: Service
+  type: time_table
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - title: Academic Standing Committee
+      institution: McCormick School of Engineering, Northwestern University
+      year: 2023 - 
+    - title: Academic Appeals Committee
+      institution: McCormick School of Engineering, Northwestern University
+      year: 2023 - 
+    - title: Teaching Assistant and Peer Mentor Awards Committee, Computer Science
+      institution: McCormick School of Engineering, Northwestern University
+      year: 2023 -
+    - title: Teaching Track Hiring Committee, Computer Science
+      institution: McCormick School of Engineering, Northwestern University
+      year: 2023, 2024
+    - title: Faculty Fellow, Willard Residential College
+      institution: Northwestern University
+      year: 2021 - 
+      description: Previously Assistant Faculty Chair (2018 - 2021)
+    - title: <a href="https://github.com/NetLogo/models">NetLogo Models Library</a> – Managing Editor
+      institution: Northwestern University
+      year: 2016 - 2021 
+      description: Previously Assistant Faculty Chair (2018 - 2021)
+    - title: Reviewer (various)
+      description:
+        - Communications of the ACM
+        - Journal of Teaching and Teacher Education
+        - ACM Special Interest Group on Computer Science Education (SIGCSE)
+        - FabLearn
+        - ACM Interaction Design and Children Conference
+        - International Conference on the Learning Sciences
+        - Learning Sciences Graduate Student Conference
