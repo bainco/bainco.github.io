@@ -9,9 +9,9 @@ nav_order: 6
 
 <div>
 
-                <ul class="card-text font-weight-light list-group list-group-flush">
+<ul class="card-text font-weight-light list-group list-group-flush">
 
-    <li class="list-group-item">
+    <li class="list-group-item" style="background-color:  transparent;">
       <h5 class="font-italic">
 
 <a href="https://www.mccormick.northwestern.edu/computer-science/academics/courses/descriptions/110.html" rel="external nofollow noopener" target="_blank">COMP_SCI 110</a> - Introduction to Computer Programming</h5>
@@ -34,7 +34,7 @@ nav_order: 6
 
     </li>
 
-    <li class="list-group-item">
+    <li class="list-group-item" style="background-color:  transparent;">
       <h5 class="font-italic">
 
 <a href="https://www.mccormick.northwestern.edu/computer-science/academics/courses/descriptions/111.html" rel="external nofollow noopener" target="_blank">COMP_SCI 111</a> - Fundamentals of Computer Programming I</h5>
@@ -57,7 +57,7 @@ nav_order: 6
 
     </li>
 
-    <li class="list-group-item">
+    <li class="list-group-item" style="background-color:  transparent;">
       <h5 class="font-italic">
 
 <a href="https://www.mccormick.northwestern.edu/computer-science/academics/courses/descriptions/212.html" rel="external nofollow noopener" target="_blank">COMP_SCI 212</a> - Mathematical Foundations of CS</h5>
@@ -76,7 +76,7 @@ nav_order: 6
 
     </li>
 
-    <li class="list-group-item">
+    <li class="list-group-item" style="background-color:  transparent;">
       <h5 class="font-italic">
 
 <a href="https://www.mccormick.northwestern.edu/computer-science/academics/courses/descriptions/396-11.html" rel="external nofollow noopener" target="_blank">COMP_SCI 396</a> - Communicating Computer Science</h5>
@@ -99,7 +99,7 @@ nav_order: 6
 
     </li>
 
-    <li class="list-group-item">
+    <li class="list-group-item" style="background-color:  transparent;">
       <h5 class="font-italic">
 
 <a href="https://www.mccormick.northwestern.edu/computer-science/academics/courses/descriptions/396-496-30.html" rel="external nofollow noopener" target="_blank">COMP_SCI 396 + 496</a> - Pedagogical Design in CS</h5>
@@ -118,7 +118,7 @@ nav_order: 6
 
     </li>
 
-    <li class="list-group-item">
+    <li class="list-group-item" style="background-color:  transparent;">
       <h5 class="font-italic">
 
 <a href="https://catalogs.northwestern.edu/undergraduate/courses-az/sesp/" rel="external nofollow noopener" target="_blank">SESP 310</a> - Introduction to Statistical Causal Inference</h5>
@@ -137,7 +137,7 @@ nav_order: 6
 
     </li>
 
-    <li class="list-group-item">
+    <li class="list-group-item" style="background-color:  transparent;">
       <h5 class="font-italic">
 
 <a href="https://www.mccormick.northwestern.edu/computer-science/academics/courses/descriptions/372-472.html" rel="external nofollow noopener" target="_blank">COMP_SCI 372/427 + LRN_SCI 496</a> - Designing and Constructing Models with Multi-Agent Languages</h5>
@@ -156,7 +156,7 @@ nav_order: 6
 
     </li>
 
-    <li class="list-group-item">
+    <li class="list-group-item" style="background-color:  transparent;">
       <h5 class="font-italic">
 
 <a href="https://catalogs.northwestern.edu/undergraduate/courses-az/sesp/" rel="external nofollow noopener" target="_blank">SESP 210</a> - Introduction to Statistics and Research</h5>
