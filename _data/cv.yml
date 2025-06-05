@@ -144,8 +144,9 @@
   type: time_table
   contents:
     - title: Faculty Chair, Willard Residential College
-      year: 2025 - 
+      year: 2025 -
       institution: Northwestern University
+      description: Previously Faculty Fellow (2021 - 2025) & Assistant Faculty Chair (2018 - 2021)
     - title: Advisor, FutureDev (CS Student Organization)
       year: 2024 -
       institution: Northwestern University
@@ -164,7 +165,6 @@
     - title: Faculty Fellow, Willard Residential College
       institution: Northwestern University
       year: 2021 -
-      description: Previously Assistant Faculty Chair (2018 - 2021)
     - title: <a href="https://github.com/NetLogo/models">NetLogo Models Library</a> – Managing Editor
       institution: Northwestern University
       year: 2016 - 2021
