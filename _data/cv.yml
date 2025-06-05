@@ -68,6 +68,9 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2025
+      items:
+        - NUCS - <a href="https://www.mccormick.northwestern.edu/computer-science/news-events/honors-awards/department-awards.html?utm_source=linkedin&utm_medium=social-post&utm_campaign=cs-news-social-promo&utm_content=___">Excellence in Teaching Award</a>
     - year: 2024
       items:
         - NU Learning Technologies – <a href="https://www.it.northwestern.edu/departments/it-services-support/teaching/canvas-hall-of-fame/">Most Innovative Course Site for COMP_SCI 110</a>
@@ -140,6 +143,12 @@
 - title: Service
   type: time_table
   contents:
+    - title: Faculty Chair, Willard Residential College
+      year: 2025 - 
+      institution: Northwestern University
+    - title: Advisor, FutureDev (CS Student Organization)
+      year: 2024 -
+      institution: Northwestern University
     - title: Academic Standing Committee
       institution: McCormick School of Engineering, Northwestern University
       year: 2023 -
