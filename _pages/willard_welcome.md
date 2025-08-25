@@ -15,7 +15,7 @@ As the <a href="https://www.willardrc.com/faculty-associates">Faculty Chair</a> 
 
 Willard features a cohesive community, and your own unique interests and active participation are essential to shaping Willard's direction this year. We have no mold into which you must fit and no set of beliefs to which you must conform. While some residential colleges are thematic and devote themselves to a particular area of study, Willard takes the opposite approach. It promotes mixing and interaction of students from many schools and disciplines. The Willard world is diverse in all senses, including intellectually. You are just as likely to end up having a conversation with a musician or dramatist as you are an economist or chemist.
 
-Myself, our Assistant Faculty Chair Gillian Hemme, and our Exec Board are all looking forward to meeting you during our welcome activities!
+Myself, our Assistant Chair Gillian Hemme, and our Exec Board are all looking forward to meeting you during our welcome activities!
 
 <p style="margin:1em"><b>Gillian Hemme</b> is in her fourth year of the Interdisciplinary PhD in Theatre and Drama. She examines the impacts of incarceration on the body as made legible through performance, and she conducts her work through embodied performance practices as well as archival research. Gillian is also a performer, playwright, and director. She serves as the point person for helping us coordinate day-to-day programmatic and administrative matters for faculty-student activities. Gillian is happy to help Willard residents with any questions or concerns that may come up to facilitate Willard's thriving, inclusive community! She looks forward to seeing you at High Table lunches, Willard functions, and office hours in her Willard office in the WFFL.</p>
 
@@ -49,6 +49,6 @@ We’re counting down the days until Wildcat Welcome and look forward to seeing 
 
 Enjoy the rest of your summer, and see you soon!
 
-‘Sko Woos,
+‘Sko Woos,<b>
 Willard Executive Board (2025-26)
 <hr>
