@@ -21,7 +21,7 @@ Myself, our Assistant Chair Gillian Hemme, and our Exec Board are all looking fo
 
 In the Fall I will be teaching COMP_SCI 111, Fundamentals of Computer Programming 1 which is mostly for Computer Science majors and McCormick students, though it is open to all. In the Winter I’ll offer COMP_SCI 110, Introduction to Computer Programming which is open to students across campus and introduces the basics of computer programming. If you’re in my class, make sure to come and let me know you’re a Willard resident! Our <a href="https://www.willardrc.com/faculty-associates">robust roster of Faculty Fellows</a> also love to see Willard students not only at High Table (weekly lunches) but also in their courses so make sure to take a look to see if any fit your schedule.
 
-We will soon embark on this new journey together! Though this is my first year as Willard’s Faculty Chair, I have been involved with Willard since 2018 as the Assistant Faculty chair while finishing my PhD here at NU. I hope that Willard can become a special place for each and every one of you–just as it did for me those many years ago.
+We will soon embark on this new journey together! Though this is my first year as Willard’s Faculty Chair, I have been involved with Willard since 2018 as the Assistant Chair while finishing my PhD here at NU. I hope that Willard can become a special place for each and every one of you–just as it did for me those many years ago.
 
 See you soon!
 
