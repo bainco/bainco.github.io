@@ -143,6 +143,7 @@
 - title: Service
   type: time_table
   contents:
+
     - title: Faculty Chair, Willard Residential College
       year: 2025 -
       institution: Northwestern University
@@ -159,6 +160,8 @@
     - title: Teaching Assistant and Peer Mentor Awards Committee, Computer Science
       institution: McCormick School of Engineering, Northwestern University
       year: 2023 -
+    - title: AP Visiting Fellow (AP Computer Science B) 
+      year: 2025, 2026
     - title: Teaching Track Hiring Committee, Computer Science
       institution: McCormick School of Engineering, Northwestern University
       year: 2023, 2024
