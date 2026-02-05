@@ -1,6 +1,6 @@
 ---
 layout: course-page
-course_num: COMP_SCI 396
+course_num: CS 396
 title: COMP_SCI 396 - Communicating Computer Science
 cover: assets/img/course_logos/comm_cs.png
 #olid: OL43499941M # use Open Library ID to fetch cover (if no `cover` is provided)
