@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello world! I'm a Teaching Professor in the Department of Computer Science at Northwestern University. My research lies at the intersection of computer science and the learning sciences and focuses on 1. framing computation as a fundamental literacy of the new world and 2. understanding teacher expertise/practice.
+Hello world! I'm a Teaching Professor in the Department of Computer Science at Northwestern University.
 
 My research lies at the intersection of computer science and the learning sciences and focuses on 1. cognitive studies of computer science learners; 2. teacher learning and practice (specifically pedagogical content knowledge); 3. agent-based modeling in educational contexts. I often advise undergraduate, masters, and doctoral research projects adjacent to these areas  in addition to those focused on computer science education, teacher professional development, and AI in education.
 
