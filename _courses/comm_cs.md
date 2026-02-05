@@ -25,6 +25,6 @@ We'll talk about how to communicate to various audiences (e.g. general public; p
 
 This course would be ideal for students interested in:
 
-* Communicating your own research to both academic and non-academic audiences
-* Working in public outreach to spread awareness of CS
-* Thinking about how we might inform policymakers of ideas in CS that have cultural and legal significance
+- Communicating your own research to both academic and non-academic audiences
+- Working in public outreach to spread awareness of CS
+- Thinking about how we might inform policymakers of ideas in CS that have cultural and legal significance

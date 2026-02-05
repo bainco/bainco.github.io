@@ -87,7 +87,9 @@
   width: 100%;
 }
 
-.nt-param-name, .nt-param-value, .nt-param-label {
+.nt-param-name,
+.nt-param-value,
+.nt-param-label {
   display: table-cell;
   padding-top: 5px;
   padding-bottom: 5px;
@@ -120,7 +122,9 @@
   padding: 8px 15px;
 }
 
-.nt-param-confirm:active { color: #ccc; }
+.nt-param-confirm:active {
+  color: #ccc;
+}
 
 .nt-param-cancel {
   font-size: 18px;
@@ -139,24 +143,34 @@
   line-height: 150%;
 }
 
-.nt-select-option:hover { background-color: #eee; }
-.nt-select-option.selected { background-color: rgba(107, 155, 195, 0.5); }
-.nt-select-option:active { background-color: rgba(107, 155, 195, 1.0); color: white; }
-
-
-@keyframes fadeIn {
-  from {opacity: 0;}
-  to {opacity: 1;}
+.nt-select-option:hover {
+  background-color: #eee;
+}
+.nt-select-option.selected {
+  background-color: rgba(107, 155, 195, 0.5);
+}
+.nt-select-option:active {
+  background-color: rgba(107, 155, 195, 1);
+  color: white;
 }
 
-input[type=range] {
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+input[type="range"] {
   /*-webkit-appearance: none;*/
   border: 1px solid white;
   width: 100%;
 }
 
-input[type=range]::-webkit-slider-runnable-track,
-input[type=range]::-moz-range-track {
+input[type="range"]::-webkit-slider-runnable-track,
+input[type="range"]::-moz-range-track {
   width: 220px;
   height: 4px;
   background: #ddd;
@@ -164,9 +178,9 @@ input[type=range]::-moz-range-track {
   border-radius: 50%;
 }
 
-input[type=range]::-webkit-slider-thumb,
-input[type=range]::-moz-range-thumb,
-input[type=range]::-ms-thumb {
+input[type="range"]::-webkit-slider-thumb,
+input[type="range"]::-moz-range-thumb,
+input[type="range"]::-ms-thumb {
   -webkit-appearance: none;
   border: none;
   height: 20px;
@@ -176,47 +190,45 @@ input[type=range]::-ms-thumb {
   margin-top: -4px;
 }
 
-input[type=range]:focus {
+input[type="range"]:focus {
   outline: none;
 }
 
-
 /*hide the outline behind the border*/
-input[type=range]:-moz-focusring{
-    outline: 1px solid white;
-    outline-offset: -1px;
+input[type="range"]:-moz-focusring {
+  outline: 1px solid white;
+  outline-offset: -1px;
 }
 
-input[type=range]::-ms-track {
-    width: 220px;
-    height: 5px;
-    
-    /*remove bg colour from the track, we'll use ms-fill-lower and ms-fill-upper instead */
-    background: transparent;
-    
-    /*leave room for the larger thumb to overflow with a transparent border */
-    border-color: transparent;
-    border-width: 6px 0;
+input[type="range"]::-ms-track {
+  width: 220px;
+  height: 5px;
 
-    /*remove default tick marks*/
-    color: transparent;
-}
-input[type=range]::-ms-fill-lower {
-    background: #777;
-    border-radius: 10px;
-}
-input[type=range]::-ms-fill-upper {
-    background: #ddd;
-    border-radius: 10px;
-}
+  /*remove bg colour from the track, we'll use ms-fill-lower and ms-fill-upper instead */
+  background: transparent;
 
-input[type=range]:focus::-ms-fill-lower {
-    background: #888;
+  /*leave room for the larger thumb to overflow with a transparent border */
+  border-color: transparent;
+  border-width: 6px 0;
+
+  /*remove default tick marks*/
+  color: transparent;
 }
-input[type=range]:focus::-ms-fill-upper {
-    background: #ccc;
+input[type="range"]::-ms-fill-lower {
+  background: #777;
+  border-radius: 10px;
+}
+input[type="range"]::-ms-fill-upper {
+  background: #ddd;
+  border-radius: 10px;
 }
 
+input[type="range"]:focus::-ms-fill-lower {
+  background: #888;
+}
+input[type="range"]:focus::-ms-fill-upper {
+  background: #ccc;
+}
 
 /* 
  * EXPRESSION BUILDER 
@@ -290,13 +302,12 @@ input[type=range]:focus::-ms-fill-upper {
   width: 3em;
   padding: 0 0.2em;
   height: 1.6em;
-  
 }
 
 .nt-pulldown-menu {
   position: absolute;
   min-width: 8em;
-  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
   border: 1px solid rgba(0, 0, 0, 0.2);
   border-radius: 0.25em;
   padding: 0.5em 0.5em;
@@ -326,4 +337,3 @@ input[type=range]:focus::-ms-fill-upper {
 .nt-pulldown-menu a:hover {
   background-color: rgba(150, 200, 255, 0.2);
 }
-

@@ -2,7 +2,7 @@
 layout: page
 title: Welcome to Willard!
 permalink: /willard-welcome
-subtitle: 
+subtitle:
 ---
 
 <h3>A message from your Faculty Chair</h3>
@@ -27,6 +27,7 @@ See you soon!
 
 Connor Bain, Ph.D. – <b>Willard Faculty Chair</b><br>
 Assistant Professor of Instruction, McCormick School of Engineering
+
 <hr>
 
 <h3>A message from your Exec Board</h3>
@@ -51,4 +52,5 @@ Enjoy the rest of your summer, and see you soon!
 
 ‘Sko Woos,<b>
 Willard Executive Board (2025-26)
+
 <hr>
