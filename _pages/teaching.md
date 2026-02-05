@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 description:
 nav: true
-nav_order: 6
+nav_order: 1
 ---
 
 <div>
@@ -27,7 +27,7 @@ nav_order: 6
             </li>
 
             <li>
-              <span class="subitem"><i>Winter 2022</i>, <i>Spring 2022</i>, <i>Winter 2023</i>, <i>Spring 2023</i>, <i>Winter 2024</i>, <i>Spring 2024</i>, <i>Winter 2025</i></span>
+              <span class="subitem"><i>Winter 2022</i>, <i>Spring 2022</i>, <i>Winter 2023</i>, <i>Spring 2023</i>, <i>Winter 2024</i>, <i>Spring 2024</i>, <i>Winter 2025</i>, <i>Winter 2026</i></span>
             </li>
 
         </ul>
@@ -50,12 +50,51 @@ nav_order: 6
             </li>
 
             <li>
-              <span class="subitem"><i>Fall 2021</i>, <i>Fall 2022</i>, <i>Fall 2023</i>, <i>Fall 2024</i></span>
+              <span class="subitem"><i>Fall 2021</i>, <i>Fall 2022</i>, <i>Fall 2023</i>, <i>Fall 2024</i>, <i>Fall 2025</i></span>
             </li>
 
         </ul>
 
     </li>
+
+    <li class="list-group-item" style="background-color:  transparent;">
+      <h5 class="font-italic">
+
+<a href="https://www.mccormick.northwestern.edu/computer-science/academics/courses/descriptions/372-472.html" rel="external nofollow noopener" target="_blank">COMP_SCI 372/472 + LRN_SCI 372/472</a> - Designing and Constructing Models with Multi-Agent Languages</h5>
+
+        <ul class="subitems">
+
+            <li>
+              <span class="subitem">Instructor, Northwestern University</span>
+            </li>
+
+            <li>
+              <span class="subitem"><i>Spring 2026</i></span>
+            </li>
+
+        </ul>
+
+    </li>
+
+    <li class="list-group-item" style="background-color:  transparent;">
+      <h5 class="font-italic">
+
+<a href="https://www.mccormick.northwestern.edu/computer-science/academics/courses/descriptions/396-496-30.html" rel="external nofollow noopener" target="_blank">COMP_SCI 396 + 496</a> - Pedagogical Design in CS</h5>
+
+        <ul class="subitems">
+
+            <li>
+              <span class="subitem">Course Designer &amp; Instructor, Northwestern University</span>
+            </li>
+
+            <li>
+              <span class="subitem"><i>Spring 2025</i>, <i>Spring 2026</i></span>
+            </li>
+
+        </ul>
+
+    </li>
+
 
     <li class="list-group-item" style="background-color:  transparent;">
       <h5 class="font-italic">
@@ -102,25 +141,6 @@ nav_order: 6
     <li class="list-group-item" style="background-color:  transparent;">
       <h5 class="font-italic">
 
-<a href="https://www.mccormick.northwestern.edu/computer-science/academics/courses/descriptions/396-496-30.html" rel="external nofollow noopener" target="_blank">COMP_SCI 396 + 496</a> - Pedagogical Design in CS</h5>
-
-        <ul class="subitems">
-
-            <li>
-              <span class="subitem">Course Designer &amp; Instructor, Northwestern University</span>
-            </li>
-
-            <li>
-              <span class="subitem"><i>Spring 2025</i></span>
-            </li>
-
-        </ul>
-
-    </li>
-
-    <li class="list-group-item" style="background-color:  transparent;">
-      <h5 class="font-italic">
-
 <a href="https://catalogs.northwestern.edu/undergraduate/courses-az/sesp/" rel="external nofollow noopener" target="_blank">SESP 310</a> - Introduction to Statistical Causal Inference</h5>
 
         <ul class="subitems">
@@ -131,25 +151,6 @@ nav_order: 6
 
             <li>
               <span class="subitem"><i>Spring 2020</i></span>
-            </li>
-
-        </ul>
-
-    </li>
-
-    <li class="list-group-item" style="background-color:  transparent;">
-      <h5 class="font-italic">
-
-<a href="https://www.mccormick.northwestern.edu/computer-science/academics/courses/descriptions/372-472.html" rel="external nofollow noopener" target="_blank">COMP_SCI 372/427 + LRN_SCI 496</a> - Designing and Constructing Models with Multi-Agent Languages</h5>
-
-        <ul class="subitems">
-
-            <li>
-              <span class="subitem">Guest Lecturer &amp; Teaching Assistant, Northwestern University</span>
-            </li>
-
-            <li>
-              <span class="subitem"><i>Spring 2018</i>, <i>Spring 2019</i>, <i>Spring 2021</i></span>
             </li>
 
         </ul>
