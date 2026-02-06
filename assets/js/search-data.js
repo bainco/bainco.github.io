@@ -54,8 +54,8 @@ ninja.data = [{
           description: "",
           section: "Courses",handler: () => {
               window.location.href = "/courses/cs110.html";
-            },},{id: "courses-cs-111-fundamentals-of-computer-programming-i",
-          title: 'CS 111 - Fundamentals of Computer Programming I',
+            },},{id: "courses-comp-sci-111-fundamentals-of-computer-programming-i",
+          title: 'COMP_SCI 111 - Fundamentals of Computer Programming I',
           description: "",
           section: "Courses",handler: () => {
               window.location.href = "/courses/cs111.html";
