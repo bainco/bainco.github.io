@@ -107,34 +107,34 @@
     - title: <a href="https://www.mccormick.northwestern.edu/computer-science/academics/courses/descriptions/110.html">COMP_SCI 110</a> - Introduction to Computer Programming
       items:
         - Instructor, Northwestern University
-        - "Avg. Class Size: 185 – Total Students: 1220"
-        - <i>Winter 2022</i>, <i>Spring 2022</i>, <i>Winter 2023</i>, <i>Spring 2023</i>, <i>Winter 2024</i>, <i>Spring 2024</i>, <i>Winter 2025</i>
+        - "Avg. Class Size: 185 – Total Students: 1380"
+        - <i>Winter 2022</i>, <i>Spring 2022</i>, <i>Winter 2023</i>, <i>Spring 2023</i>, <i>Winter 2024</i>, <i>Spring 2024</i>, <i>Winter 2025</i>, <i>Winter 2026</i>
     - title: <a href="https://www.mccormick.northwestern.edu/computer-science/academics/courses/descriptions/111.html">COMP_SCI 111</a> - Fundamentals of Computer Programming I
       items:
         - Instructor, Northwestern University
-        - "Avg. Class Size: 396 – Total Students: 1589"
-        - <i>Fall 2021</i>, <i>Fall 2022</i>, <i>Fall 2023</i>, <i>Fall 2024</i>
-    - title: <a href="https://www.mccormick.northwestern.edu/computer-science/academics/courses/descriptions/212.html">COMP_SCI 212</a> - Mathematical Foundations of CS
+        - "Avg. Class Size: 396 – Total Students: 1914"
+        - <i>Fall 2021</i>, <i>Fall 2022</i>, <i>Fall 2023</i>, <i>Fall 2024</i>. <i>Fall 2025</i>
+    - title: <a href="https://www.mccormick.northwestern.edu/computer-science/academics/courses/descriptions/372-472.html">COMP_SCI 372/427 + LRN_SCI 496</a> - Designing and Constructing Models with Multi-Agent Languages
       items:
         - Instructor, Northwestern University
-        - <i>Fall 2022</i>
+        - <i>Spring 2026</i>
+    - title: <a href="https://www.mccormick.northwestern.edu/computer-science/academics/courses/descriptions/396-496-30.html">COMP_SCI 396 + 496</a> - Pedagogical Design in CS
+      items:
+        - Course Designer & Instructor, Northwestern University
+        - <i>Spring 2025</i>, <i>Spring 2026</i>
     - title: <a href="https://www.mccormick.northwestern.edu/computer-science/academics/courses/descriptions/396-11.html">COMP_SCI 396</a> - Communicating Computer Science
       items:
         - Course Designer & Instructor, Northwestern University
         - "Avg. Class Size: 36 – Total Students: 125"
         - <i>Winter 2022</i>, <i>Spring 2022</i>, <i>Spring 2023</i>, <i>Spring 2024</i>, <i>Spring 2025</i>
-    - title: <a href="https://www.mccormick.northwestern.edu/computer-science/academics/courses/descriptions/396-496-30.html">COMP_SCI 396 + 496</a> - Pedagogical Design in CS
+    - title: <a href="https://www.mccormick.northwestern.edu/computer-science/academics/courses/descriptions/212.html">COMP_SCI 212</a> - Mathematical Foundations of CS
       items:
-        - Course Designer & Instructor, Northwestern University
-        - <i>Spring 2025</i>
+        - Instructor, Northwestern University
+        - <i>Fall 2022</i>
     - title: <a href="https://catalogs.northwestern.edu/undergraduate/courses-az/sesp/">SESP 310</a> - Introduction to Statistical Causal Inference
       items:
         - Course Designer & Instructor, Northwestern University
         - <i>Spring 2020</i>
-    - title: <a href="https://www.mccormick.northwestern.edu/computer-science/academics/courses/descriptions/372-472.html">COMP_SCI 372/427 + LRN_SCI 496</a> - Designing and Constructing Models with Multi-Agent Languages
-      items:
-        - Guest Lecturer & Teaching Assistant, Northwestern University
-        - <i>Spring 2018</i>, <i>Spring 2019</i>, <i>Spring 2021</i>
     - title: <a href="https://catalogs.northwestern.edu/undergraduate/courses-az/sesp/">SESP 210</a> - Introduction to Statistics and Research
       items:
         - Recitation Instructor & Guest Lecturer, Northwestern University
