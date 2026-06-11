@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/bain-connor.html'>Assistant Professor of Instruction</a> - CS @ NU
+subtitle: <a href='https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/bain-connor.html'>Charles Deering McCormick  Professor of Instruction</a> - Assistant Professor of Instruction –  CS @ NU
 
 profile:
   align: right

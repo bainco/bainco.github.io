@@ -60,7 +60,7 @@ nav_order: 1
     <li class="list-group-item" style="background-color:  transparent;">
       <h5 class="font-italic">
 
-<a href="https://www.mccormick.northwestern.edu/computer-science/academics/courses/descriptions/372-472.html" rel="external nofollow noopener" target="_blank">COMP_SCI 372/472 + LRN_SCI 372/472</a> - Designing and Constructing Models with Multi-Agent Languages</h5>
+<a href="https://www.mccormick.northwestern.edu/computer-science/academics/courses/descriptions/372-472.html" rel="external nofollow noopener" target="_blank">CS+LS 372/472</a> - Designing and Constructing Models with Multi-Agent Languages</h5>
 
         <ul class="subitems">
 
@@ -79,7 +79,7 @@ nav_order: 1
     <li class="list-group-item" style="background-color:  transparent;">
       <h5 class="font-italic">
 
-<a href="https://www.mccormick.northwestern.edu/computer-science/academics/courses/descriptions/396-496-30.html" rel="external nofollow noopener" target="_blank">COMP_SCI 396 + 496</a> - Pedagogical Design in CS</h5>
+<a href="https://www.mccormick.northwestern.edu/computer-science/academics/courses/descriptions/396-496-30.html" rel="external nofollow noopener" target="_blank">CS 396 + 496</a> - Pedagogical Design in CS</h5>
 
         <ul class="subitems">
 

@@ -68,6 +68,9 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2026
+      items:
+        - <a href="https://news.northwestern.edu/stories/2026/4/northwestern-announces-university-teaching-awards">Charles Deering McCormick Distinguished Professor of Instruction</a>
     - year: 2025
       items:
         - NUCS - <a href="https://www.mccormick.northwestern.edu/computer-science/news-events/honors-awards/department-awards.html?utm_source=linkedin&utm_medium=social-post&utm_campaign=cs-news-social-promo&utm_content=___">Excellence in Teaching Award</a>
@@ -160,7 +163,9 @@
       institution: McCormick School of Engineering, Northwestern University
       year: 2023 -
     - title: AP Visiting Fellow (AP Computer Science B)
-      year: 2025, 2026
+      year: 2026
+    - title: AP Visiting Fellow (AP Exploring Computer Science)
+      year: 2025
     - title: Teaching Track Hiring Committee, Computer Science
       institution: McCormick School of Engineering, Northwestern University
       year: 2023, 2024
