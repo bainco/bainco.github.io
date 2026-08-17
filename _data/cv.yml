@@ -107,6 +107,14 @@
 - title: Teaching Experience
   type: nested_list
   contents:
+    - title: <a href="https://www.mccormick.northwestern.edu/computer-science/academics/courses/descriptions/gen-eng-150.html">GEN_ENG 151</a> - Honors Programming for Engineers
+      items:
+        - Instructor, Northwestern University
+        - <i>Fall 2026</i>
+    - title: <a href="https://www.mccormick.northwestern.edu/computer-science/academics/courses/descriptions/gen-eng-150.html">GEN_ENG 150</a> - Programming for Engineers
+      items:
+        - Instructor, Northwestern University
+        - <i>Winter 2027</i>, <i>Spring 2027</i>
     - title: <a href="https://www.mccormick.northwestern.edu/computer-science/academics/courses/descriptions/110.html">COMP_SCI 110</a> - Introduction to Computer Programming
       items:
         - Instructor, Northwestern University
@@ -116,7 +124,7 @@
       items:
         - Instructor, Northwestern University
         - "Avg. Class Size: 396 – Total Students: 1914"
-        - <i>Fall 2021</i>, <i>Fall 2022</i>, <i>Fall 2023</i>, <i>Fall 2024</i>. <i>Fall 2025</i>
+        - <i>Fall 2021</i>, <i>Fall 2022</i>, <i>Fall 2023</i>, <i>Fall 2024</i>. <i>Fall 2025</i>, <i>Summer 2026</i>
     - title: <a href="https://www.mccormick.northwestern.edu/computer-science/academics/courses/descriptions/372-472.html">COMP_SCI 372/427 + LRN_SCI 496</a> - Designing and Constructing Models with Multi-Agent Languages
       items:
         - Instructor, Northwestern University
